@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <a-button type="primary"> 第一次修改这个文案 </a-button>
+    <a-button type="primary"> 第二次修改这个文案 </a-button>
   </div>
 </template>
 
