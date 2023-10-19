@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>我要修改这个的文案</h1>
+    <h1>合到master</h1>
   </div>
 </template>
