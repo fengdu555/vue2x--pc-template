@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <a-button type="primary"> 改的错误文案 </a-button>
+    <a-button type="primary"> 只改dev文案 </a-button>
   </div>
 </template>
 
