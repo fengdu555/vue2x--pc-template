@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <a-button type="primary"> 我要修改这个的文案 </a-button>
+    <a-button type="primary"> 合到master </a-button>
   </div>
 </template>
 
